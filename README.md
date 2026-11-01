@@ -96,20 +96,30 @@
 - The Joy of Computing using Python – NPTEL (2025)
 - Frontend Web Developer Certification – Infosys Springboard (2025)
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Davya25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davya25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Davya25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davya25&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Davya25&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img
+    src="https://streak-stats.demolab.com?user=Davya25&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/6C63FF/Davya25" alt="GitHub Contribution Graph">
+  <img
+    src="https://ghchart.rshah.org/6C63FF/Davya25"
+    alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
